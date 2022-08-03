@@ -51,6 +51,3 @@ It is desired to develop a machine learning model that can predict customers who
 
 </div>
 
-
-
----

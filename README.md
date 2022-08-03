@@ -49,20 +49,6 @@ It is desired to develop a machine learning model that can predict customers who
 
 ---
 
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p></p><div class="list-group" id="list-tab" role="tablist">
-  <h3 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home" style = "border:2px solid #2C3E50;background-color:#2C3E50; color:white; font-family:Verdana;text-align: center; font-size:140%;font-weight: Bold;">Notebook Content</h3>
-  <a class="list-group-item list-group-item-action" data-toggle="list" href="#1" role="tab" aria-controls="profile" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Import Libraries<span class="badge badge-primary badge-pill">1</span></a>
-  <a class="list-group-item list-group-item-action" data-toggle="list" href="#2" role="tab" aria-controls="messages" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Load and Check Data<span class="badge badge-primary badge-pill">2</span></a>
-  <a class="list-group-item list-group-item-action" data-toggle="list" href="#2" role="tab" aria-controls="messages" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Exploratory Data Analysis<span class="badge badge-primary badge-pill">3</span></a>
-  <a class="list-group-item list-group-item-action" data-toggle="list" href="#2" role="tab" aria-controls="messages" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Feature Engineering<span class="badge badge-primary badge-pill">4</span></a>
- <a class="list-group-item list-group-item-action" data-toggle="list" href="#2" role="tab" aria-controls="messages" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Preparations<span class="badge badge-primary badge-pill">5</span></a>
-  <a class="list-group-item list-group-item-action" data-toggle="list" href="#2" role="tab" aria-controls="messages" target="_self" style = "color:#2C3E50; font-family:Verdana;text-align: center; font-size:130%;font-weight: Bold;">Result<span class="badge badge-primary badge-pill">6</span></a>
- 
-    
-</div>
-</div>
 </div>
 
 
